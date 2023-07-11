@@ -1,1 +1,1 @@
-Sistema cliente que interage com o servidor enviado dados e recebendo o retorno do servidor 
+Sistema Servidor que interage com o cliente recebendo dados processando e enviando o retorno do cliente
